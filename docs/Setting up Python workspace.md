@@ -24,7 +24,7 @@ dependencies or requirements
 **NOTE:** Never ever install third-party packages outside virtualenv. Remember to always use/activate virtualenv before installing anything using pip
 
 1. Install virtualenv using pip:
-```python 
+```console 
 python -m pip install virtualenv
 
 python3 -m pip install virtualenv
